@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-bcrypt = "0.13"
+bcrypt = "0.15"
